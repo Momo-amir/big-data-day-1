@@ -1,0 +1,102 @@
+[
+    {
+        "HourUTC": "2024-08-26T21:00:00",
+        "PriceArea": "DK1",
+        "SpotPriceDKK": 795.390015
+    },
+    {
+        "HourUTC": "2024-08-26T21:00:00",
+        "PriceArea": "DK2",
+        "SpotPriceDKK": 802.400024
+    },
+    {
+        "HourUTC": "2024-08-26T21:00:00",
+        "PriceArea": "NO2",
+        "SpotPriceDKK": 415.299988
+    },
+    {
+        "HourUTC": "2024-08-26T21:00:00",
+        "PriceArea": "SE3",
+        "SpotPriceDKK": -6.72
+    },
+    {
+        "HourUTC": "2024-08-26T21:00:00",
+        "PriceArea": "SE4",
+        "SpotPriceDKK": -6.72
+    },
+    {
+        "HourUTC": "2024-08-26T21:00:00",
+        "PriceArea": "SYSTEM",
+        "SpotPriceDKK": 21.639999
+    },
+    {
+        "HourUTC": "2024-08-26T20:00:00",
+        "PriceArea": "DK1",
+        "SpotPriceDKK": 827.169983
+    },
+    {
+        "HourUTC": "2024-08-26T20:00:00",
+        "PriceArea": "DK2",
+        "SpotPriceDKK": 827.169983
+    },
+    {
+        "HourUTC": "2024-08-26T20:00:00",
+        "PriceArea": "NO2",
+        "SpotPriceDKK": 418.660004
+    },
+    {
+        "HourUTC": "2024-08-26T20:00:00",
+        "PriceArea": "SE3",
+        "SpotPriceDKK": -0.75
+    },
+    {
+        "HourUTC": "2024-08-26T21:00:00",
+        "PriceArea": "DK1",
+        "SpotPriceDKK": 795.390015
+    },
+    {
+        "HourUTC": "2024-08-26T21:00:00",
+        "PriceArea": "DK2",
+        "SpotPriceDKK": 802.400024
+    },
+    {
+        "HourUTC": "2024-08-26T21:00:00",
+        "PriceArea": "NO2",
+        "SpotPriceDKK": 415.299988
+    },
+    {
+        "HourUTC": "2024-08-26T21:00:00",
+        "PriceArea": "SE3",
+        "SpotPriceDKK": -6.72
+    },
+    {
+        "HourUTC": "2024-08-26T21:00:00",
+        "PriceArea": "SE4",
+        "SpotPriceDKK": -6.72
+    },
+    {
+        "HourUTC": "2024-08-26T21:00:00",
+        "PriceArea": "SYSTEM",
+        "SpotPriceDKK": 21.639999
+    },
+    {
+        "HourUTC": "2024-08-26T20:00:00",
+        "PriceArea": "DK1",
+        "SpotPriceDKK": 827.169983
+    },
+    {
+        "HourUTC": "2024-08-26T20:00:00",
+        "PriceArea": "DK2",
+        "SpotPriceDKK": 827.169983
+    },
+    {
+        "HourUTC": "2024-08-26T20:00:00",
+        "PriceArea": "NO2",
+        "SpotPriceDKK": 418.660004
+    },
+    {
+        "HourUTC": "2024-08-26T20:00:00",
+        "PriceArea": "SE3",
+        "SpotPriceDKK": -0.75
+    }
+]
